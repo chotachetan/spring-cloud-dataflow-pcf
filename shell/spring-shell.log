@@ -1,0 +1,6 @@
+// dataflow 1.2.0.RELEASE log opened at 2018-10-11 12:54:08
+dataflow config server https://cloudeve-dataflow-server.cfapps.io
+app import --uri http://bit.ly/Celsius-SR1-stream-applications-rabbit-maven
+app list
+stream list
+stream list
